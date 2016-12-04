@@ -1,4 +1,4 @@
 # hola-world
-greetings
+hola
 
 fresh code skills in use
